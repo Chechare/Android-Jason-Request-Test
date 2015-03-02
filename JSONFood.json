@@ -1,6 +1,0 @@
-{
-	"FoodLocations":[
-		{"name": "Starbucks Coffe", "lat": "20.734743", "lng": "-103.455373" , "description":"The nicest place on the campus to get a hot coffe and relax.", "url": "http://chq.ie/wp-content/uploads/2014/03/Starbucks1.jpg"},
-		{"name": "Yum Yum", "lat": "20.734417", "lng": "-103.457632", "description": "Nice food with a nice price, but their chilaquiles aren't good as the old Bello's.", "url": "https://irs0.4sqi.net/img/general/600x600/17458266_eRreB9TIm_fRYokifFIJikyYy0VOAkoP7cnlf4OCgiA.jpg"}
-	]
-}
