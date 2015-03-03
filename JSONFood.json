@@ -1,6 +1,16 @@
 {
 	"FoodLocations":[
 		{"name": "Starbucks Coffe", "lat": "20.734743", "lng": "-103.455373" , "description":"The nicest place on the campus to get a hot coffe and relax.", "url": "http://chq.ie/wp-content/uploads/2014/03/Starbucks1.jpg"},
-		{"name": "Yum Yum", "lat": "20.734417", "lng": "-103.457632", "description": "Nice food with a nice price, but their chilaquiles aren't good as the old Bello's.", "url": "https://irs0.4sqi.net/img/general/600x600/17458266_eRreB9TIm_fRYokifFIJikyYy0VOAkoP7cnlf4OCgiA.jpg"}
+		{"name": "Yum Yum 2", "lat": "20.734417", "lng": "-103.457632", "description": "Nice food with a nice price, but their chilaquiles aren't good as the old Bello's.", "url": "https://irs0.4sqi.net/img/general/600x600/17458266_eRreB9TIm_fRYokifFIJikyYy0VOAkoP7cnlf4OCgiA.jpg"}
+		{"name": "Cafetería La Buena Mesa", "lat": "20.733282", "lng": "-103.454876", "description": "The cheapest and healthy food in the campus, but not always is the better.", "url": "https://irs1.4sqi.net/img/general/width960/HXKOGN4YSJ4PK4LVD221R4IH3RTOAFMCPTWHOGW33PB521MZ.jpg"}
+		{"name": "La Selva", "lat": "20.735113", "lng": "-103.455686", "description": "It's not food from the jungle, but it fine and also there good music to eat.", "url": "https://irs3.4sqi.net/img/general/width960/cbf2GQ3qEX0H0xfSDYgruHl1Y-DadcKuo0Pr2QrVrtw.jpg"}
+		{"name": "Güich", "lat": "20.735037", "lng": "-103.455694", "description": "Healthy and good food, but there is not more chipotle for your Paninis :(.", "url": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/c0.1.851.315/p851x315/1888950_691029714273562_2100337549_o.jpg"}
+		{"name": "Subway", "lat": "20.734547", "lng": "-103.457641", "description": "Yes, there's a Subway inside of campus. Try the chicken & BLT subs, they are the best.", "url": "https://es.foursquare.com/v/subway-itesm/5252c71f498ed7e3c9b6daf8/photos?openPhotoId=5254551511d22854b7acb5e4"}
+		{"name": "Juvie jus", "lat": "20.7345928", "lng": "-103.4576927", "description": "Good food but their prices are a little expensive, anyways their have delicious smothies.", "url": "https://es.foursquare.com/v/juvie-jus-itesm/525d4d9e11d2b45580b0df77/photos?openPhotoId=52d824cb498e949915878675"}
+		{"name": "Yum Yum", "lat": "20.7349605", "lng": "-103.4556446", "description": "Nice food with a nice price, but their chilaquiles aren't good as the old Bello's.", "url": "https://es.foursquare.com/v/yumyum-itesm/525c210e11d21dbcc6afc952?openPhotoId=529787e111d28010335cdab2"}
+		{"name": "Güich Prepa-Tec", "lat": "20.734679", "lng": "-103.452749", "description": "This is a subsidiary of Güich in the same campus, but this have less menu options.", "url": "https://scontent-dfw.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/p206x206/601441_449838321726037_823278100_n.jpg?oh=08efa7de78172e5fd8597eccb73c49fb&oe=5580F2A4"}
+		{"name": "Juvie jus Prepa-Tec", "lat": "20.734815", "lng": "-103.452827", "description": "A subsidiary of the Juvie jus, but it just sell crepes and smothies.", "url": "https://irs0.4sqi.net/img/general/600x600/17458266_eRreB9TIm_fRYokifFIJikyYy0VOAkoP7cnlf4OCgiA.jpg"}
+
 	]
 }
+11
