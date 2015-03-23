@@ -3,7 +3,7 @@
  "owner": {
  	"name": "César Alejandro Robles Soltero",
  	"mat": "A01226103",
- 	"hobbie:" "Make JSON Files for fun! :D"
+ 	"hobbie": "Make JSON Files for fun! :D"
  	},
  "friends": [
  	{"name":"César Robles", "hobbie":"Play videogames", "age":"21", "phone": "3171666666", "address": "Some place in the Earth."},
