@@ -1,1 +1,26 @@
-[ "Play videogames", "Read Sci-fi books", "Listen to music", "Play Guitar", "Play pianno" , "Watch so much box", "Trolling", "I don't know what more put"]
+[
+    {
+        "interest": "Play videogames"
+    },
+    {
+        "interest": "Read Sci-fi books"
+    },
+    {
+        "interest": "Listen to music"
+    },
+    {
+        "interest": "Play Guitar"
+    },
+    {
+        "interest": "Play pianno"
+    },
+    {
+        "interest": "Watch so much box"
+    },
+    {
+        "interest": "Trolling"
+    },
+    {
+        "interest": "I dont know what more put"
+    }
+]
